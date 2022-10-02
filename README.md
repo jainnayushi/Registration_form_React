@@ -1,3 +1,7 @@
+# Responsive Registration Page in React with Form Validation
+
+<img width="739" alt="image" src="https://user-images.githubusercontent.com/64698800/193457825-4b93c588-5fb2-43ee-929f-a3197116e4c4.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
